@@ -147,7 +147,7 @@ So you can drop it into another project if you want.
 
 If you use this for a thesis, you can write something like:
 
-> “The interviews were recorded digitally and transcribed locally using the open-source Whisper model (via a custom Python GUI, repository: <link>). The audio was slightly cleaned (noise reduction), the content was not altered.”
+> “The interviews were recorded digitally and transcribed locally using the open-source Whisper model (via a custom Python GUI, repository: [<whisper-transcript-gui>](https://github.com/1Jul1an/whisper-transcript-gui)). The audio was slightly cleaned (noise reduction), the content was not altered.”
 
 That makes the process transparent.
 
